@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang = "es">
+<html>
+<head>
+	<title>PRACTICA 3</title>
+</head>
+<body background="57E.jpg" Text ="white"color="white">
+<CENTER><font face="comic sans MS, verdana" color="white" size="20">LENGUAJES DE DE PROGRAMACION</font></CENTER>
+
+<HR>
+<h2>Los 7 lenguajes de programación mejor pagados del mundo</h2>
+<UL> 
+	<LI>C</LI>
+	<LI>JavaScrip</LI>
+	<LI>C++ </LI>
+	<LI>Java</LI>
+	<li>Python</li>	
+	<li>Objetive C</li>
+	<li>Ruby on Rails</li>	
+</UL>
+<h2>Lenguaje de programación WEB</h2>
+<OL>
+<LI>HTML</LI>
+<LI>JavaScrip</LI>
+<LI>PHP</LI>
+<LI>ASP</LI>
+<LI>JSP</LI>
+<LI>Ruby</LI>
+<LI>CSS</LI>
+</OL>
+<h2>ACRÓNIMOS INTERESANTES</h2>
+<DL>
+	<DT>HTML</DT>
+	<DD>HyperText Markup Languaje</DD>
+	<DT>W3C</DT>
+	<DD>World Wide Web Consortium</DD>
+	<DT>PHP</DT>
+	<DD>PHP Hypertext Pre-processor</DD>
+	<DT>CSS</DT>
+	<DD>Cascading Style Sheets</DD>
+</DL>
+<p aling="right">Diceñado por Jose Ruben Alegria Rodriguez</p>
+<CENTER><A HREF="http://www.unach.mx/">UNACH</A></CENTER>
+</body>
+</html>                              
